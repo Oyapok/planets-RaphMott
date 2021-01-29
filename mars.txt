@@ -1,2 +1,3 @@
 I like Mars because it's red and it's my favourite colour
-I'm gonna find martians !
+I'm gonna find a martian !
+A new line in the file
